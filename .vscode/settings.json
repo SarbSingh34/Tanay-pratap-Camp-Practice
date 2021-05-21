@@ -1,5 +1,8 @@
 {
     "files.exclude": {
         "/*   /index.html      200": true
+    },
+    "files.watcherExclude": {
+        "/*    /index.html/      200": true
     }
 }
